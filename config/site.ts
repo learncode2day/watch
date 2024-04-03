@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: 'Reely',
-  description: 'Reely is a movie and tv show tracker built by Mohamed Gado.',
+  name: 'StreamTV',
+  description: 'StreamTV is a movie and tv show tracker built by Mohamed Gado.',
   mainNav: [
     {
       title: 'Home',
@@ -26,21 +26,21 @@ export const siteConfig = {
     },
   ],
   personalLogo:
-    'https://pbs.twimg.com/profile_images/1446549954231738370/IVkXC16N_400x400.jpg',
+    'https://pbs.twimg.com/profile_images/1704473627649794048/8-7aJMxd_400x400.jpg',
   links: {
-    twitter: 'https://twitter.com/Sadge1996',
-    github: 'https://github.com/Vette1123',
-    website: 'https://www.mohamedgado.info/',
+    twitter: 'https://twitter.com/enjoyingsmain',
+    github: 'https://github.com/heyitsleo',
+    website: 'https://stream.starnode.host/',
   },
   openGraph: {
     locale: 'en_US',
     type: 'website',
   },
-  email: 'boogado@yahoo.com',
-  websiteURL: 'https://www.reely.live',
-  twitterTag: '@Sadge1996',
+  email: 'raymor.biz@gmail.com',
+  websiteURL: 'https://stream.starnode.host',
+  twitterTag: '@enjoyingsmain',
   image:
-    'https://pbs.twimg.com/profile_images/1446549954231738370/IVkXC16N_400x400.jpg',
+    'https://pbs.twimg.com/profile_images/1704473627649794048/8-7aJMxd_400x400.jpg',
   keywords: [
     'Software Engineer',
     'Frontend Engineer',
@@ -49,10 +49,6 @@ export const siteConfig = {
     'TypeScript',
     'JavaScript',
     'Node.js',
-    'Mohamed Gado',
-    'Gado',
-    'Mohamed',
-    'Gado Mohamed',
     'React Developer',
     'React Engineer',
     'React.js',
